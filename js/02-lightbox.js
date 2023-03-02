@@ -19,7 +19,7 @@ function onClickOfImage(){
 }); 
 };
 
-//---------------------------------------
+
 function createImageCardMarkup(galleryImage) {
     return galleryImage.map(({ preview,
         original,
